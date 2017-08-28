@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15e60fdd-90b9-4062-96b0-eeea918c5382" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/Numbers.java" afterPath="$PROJECT_DIR$/src/algorithm/Numbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/algorithm/Sort.java" afterPath="$PROJECT_DIR$/src/algorithm/Sort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/databases/ConnectDB.java" afterPath="$PROJECT_DIR$/src/databases/ConnectDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/UseMap.java" afterPath="$PROJECT_DIR$/src/datastructure/UseMap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" afterPath="$PROJECT_DIR$/src/definition/core-java-conceptual-questions" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/definition/data-structure-questions" afterPath="$PROJECT_DIR$/src/definition/data-structure-questions" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/design/Employee.java" afterPath="$PROJECT_DIR$/src/design/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/design/EmployeeInfo.java" afterPath="$PROJECT_DIR$/src/design/EmployeeInfo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/Factorial.java" afterPath="$PROJECT_DIR$/src/math/Factorial.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/Fibonacci.java" afterPath="$PROJECT_DIR$/src/math/Fibonacci.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/FindMissingNumber.java" afterPath="$PROJECT_DIR$/src/math/FindMissingNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/LowestNumber.java" afterPath="$PROJECT_DIR$/src/math/LowestNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/MakePyramid.java" afterPath="$PROJECT_DIR$/src/math/MakePyramid.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/Pattern.java" afterPath="$PROJECT_DIR$/src/math/Pattern.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/math/PrimeNumber.java" afterPath="$PROJECT_DIR$/src/math/PrimeNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/parser/ProcessStudentInfo.java" afterPath="$PROJECT_DIR$/src/parser/ProcessStudentInfo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/problems/Anagram.java" afterPath="$PROJECT_DIR$/src/problems/Anagram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/problems/DuplicateWord.java" afterPath="$PROJECT_DIR$/src/problems/DuplicateWord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/problems/Palindrome.java" afterPath="$PROJECT_DIR$/src/problems/Palindrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/problems/Permutation.java" afterPath="$PROJECT_DIR$/src/problems/Permutation.java" />
-    </list>
+    <list default="true" id="15e60fdd-90b9-4062-96b0-eeea918c5382" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -201,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="141" />
     <option name="y" value="23" />
     <option name="width" value="1239" />
@@ -487,7 +462,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="141" y="23" width="1239" height="815" extended-state="0" />
+    <frame x="141" y="23" width="1239" height="815" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
