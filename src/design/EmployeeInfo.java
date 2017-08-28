@@ -30,7 +30,8 @@ public class EmployeeInfo{
 	 * you must have multiple constructor.
 	 * Must implement below constructor.
 	 */
-	public EmployeeInfo(int employeeId){
+	public EmployeeInfo(int employeeId)
+	{
 		
 	}
     public EmployeeInfo(String name, int employeeId){

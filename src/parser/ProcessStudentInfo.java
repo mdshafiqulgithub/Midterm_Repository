@@ -40,8 +40,8 @@ public class ProcessStudentInfo {
 				String tag = "id";
 
 				//Declare a Map with List<String> into it.
-				Map<String,List<String>> list = new LinkedHashMap<String,List<String>>();
-				
+				Map<String,List<Student>> list = new LinkedHashMap<String,List<Student>>();
+
 				/*Declare 2 ArrayList with Student data type to store Selenium student into one of the ArrayList and
 				  Qtp student into another ArrayList. */
 				

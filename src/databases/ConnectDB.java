@@ -239,7 +239,6 @@ public class ConnectDB {
             //System.out.format("%s, %s\n", name, id);
             user = new User(name,id);
             list.add(user);
-
         }
         st.close();
        }catch (Exception e){
